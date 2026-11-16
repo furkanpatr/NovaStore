@@ -1,0 +1,14 @@
+
+# Gecici dosyalar
+*.tmp
+*.log
+Thumbs.db
+
+# Word gecici dosyalari
+~$*.docx
+
+# SQL Server yedek dosyalari
+*.bak
+
+# Editor gecici dosyalari
+.vs/
